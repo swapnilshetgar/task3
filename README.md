@@ -29,7 +29,7 @@ Extract specific data from one or more tables using basic SQL queries to:
 
 | File Name                 | Description                                  |
 |--------------------------|----------------------------------------------|
-| `task3_select_queries.sql` | SQL file containing all the required queries |
+| `task3.sql`              | SQL file containing all the required queries |
 | `README.md`              | Documentation and explanation of the task   |
 
 ---
